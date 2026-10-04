@@ -11,6 +11,8 @@
 $firstName = $_GET["firstName"];
 $surname = $_GET["surname"];
 
+echo "Hello " . $firstName . " " . $surname . "!";
+
 ?>
 
 </body>
